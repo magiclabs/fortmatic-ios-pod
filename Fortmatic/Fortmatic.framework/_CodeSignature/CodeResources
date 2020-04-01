@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Fortmatic-Swift.h</key>
 		<data>
-		8DyGOzpIQ8CRaWi8k+GSMH9qQ44=
+		1JO6cpsX1LBiyH4mpUGYBRCYMwc=
 		</data>
 		<key>Headers/Fortmatic-umbrella.h</key>
 		<data>
@@ -14,23 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4XK0M+4+TsnPsQV7slbFoHcgXGc=
+		j8U+9juNGwNO39tgkgtZR95ZxJ8=
+		</data>
+		<key>Modules/Fortmatic.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		MhRZDXQukkVdFquYfsQNpZL3Onw=
+		</data>
+		<key>Modules/Fortmatic.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<data>
+		MhRZDXQukkVdFquYfsQNpZL3Onw=
 		</data>
 		<key>Modules/Fortmatic.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Ud2yBnkPZ0hZ7obuvlZXoh4iXKA=
+		EvAQrPuMxt6GNvqmPGAom0JbBsc=
 		</data>
 		<key>Modules/Fortmatic.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hLjHQmW4KjH3UCJd0CwktTshra0=
+		sr3vdIILGCbe2eDlEjVqcU7U+3k=
 		</data>
 		<key>Modules/Fortmatic.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		Ud2yBnkPZ0hZ7obuvlZXoh4iXKA=
+		EvAQrPuMxt6GNvqmPGAom0JbBsc=
 		</data>
 		<key>Modules/Fortmatic.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		hLjHQmW4KjH3UCJd0CwktTshra0=
+		sr3vdIILGCbe2eDlEjVqcU7U+3k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,11 +51,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8DyGOzpIQ8CRaWi8k+GSMH9qQ44=
+			1JO6cpsX1LBiyH4mpUGYBRCYMwc=
 			</data>
 			<key>hash2</key>
 			<data>
-			5lqHRYZ8PIBksok46q/X15YtFfZZUCZ6WAP79QoUFzM=
+			9HEF7vg7ZSZlJeUsww+Nie5QSOGKUfHMcrw+lSJhaKQ=
 			</data>
 		</dict>
 		<key>Headers/Fortmatic-umbrella.h</key>
@@ -61,48 +69,70 @@
 			qZdjVkEqFK5/3bzXmQ7swYF89HAg4o1cm+iCKo1VvpU=
 			</data>
 		</dict>
+		<key>Modules/Fortmatic.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MhRZDXQukkVdFquYfsQNpZL3Onw=
+			</data>
+			<key>hash2</key>
+			<data>
+			s+yi6tmkOaqsdEXX3WCr7RFVKI4Pn2uB/ngbRvmvByw=
+			</data>
+		</dict>
+		<key>Modules/Fortmatic.swiftmodule/Project/x86_64.swiftsourceinfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MhRZDXQukkVdFquYfsQNpZL3Onw=
+			</data>
+			<key>hash2</key>
+			<data>
+			s+yi6tmkOaqsdEXX3WCr7RFVKI4Pn2uB/ngbRvmvByw=
+			</data>
+		</dict>
 		<key>Modules/Fortmatic.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ud2yBnkPZ0hZ7obuvlZXoh4iXKA=
+			EvAQrPuMxt6GNvqmPGAom0JbBsc=
 			</data>
 			<key>hash2</key>
 			<data>
-			JdhuJC20WG42FNlBlYtBW7knoRArrHwXP2AZOcZa9t4=
+			cB0Fzoag5BpKIvYDBzSMEyjRbff6UCxmhPb2J0EyFH8=
 			</data>
 		</dict>
 		<key>Modules/Fortmatic.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hLjHQmW4KjH3UCJd0CwktTshra0=
+			sr3vdIILGCbe2eDlEjVqcU7U+3k=
 			</data>
 			<key>hash2</key>
 			<data>
-			IFLjTsQfD/c9EizJMl8uXxZ0EM7F/IhsCF5J8WZZKd8=
+			PHhvI+8AaOs+0sWSKmjzkVP4Ep4998IE20Maf3887O8=
 			</data>
 		</dict>
 		<key>Modules/Fortmatic.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ud2yBnkPZ0hZ7obuvlZXoh4iXKA=
+			EvAQrPuMxt6GNvqmPGAom0JbBsc=
 			</data>
 			<key>hash2</key>
 			<data>
-			JdhuJC20WG42FNlBlYtBW7knoRArrHwXP2AZOcZa9t4=
+			cB0Fzoag5BpKIvYDBzSMEyjRbff6UCxmhPb2J0EyFH8=
 			</data>
 		</dict>
 		<key>Modules/Fortmatic.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hLjHQmW4KjH3UCJd0CwktTshra0=
+			sr3vdIILGCbe2eDlEjVqcU7U+3k=
 			</data>
 			<key>hash2</key>
 			<data>
-			IFLjTsQfD/c9EizJMl8uXxZ0EM7F/IhsCF5J8WZZKd8=
+			PHhvI+8AaOs+0sWSKmjzkVP4Ep4998IE20Maf3887O8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
